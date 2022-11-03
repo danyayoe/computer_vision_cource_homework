@@ -1,0 +1,1 @@
+C:\ffmpeg -i "C:\Users\danya\Projects\Computer Vision\lesson_10\homework\data\result_KCF.mp4" -acodec aac -vcodec libx264 -vf yadif "C:\Users\danya\Projects\Computer Vision\lesson_10\homework\data\result_KCF-min.mp4"
